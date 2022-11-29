@@ -1,0 +1,13 @@
+let grades = [10, 18, 14, 15]
+
+let sum = 0
+console.log(sum)
+
+sum = sum + grades[0]
+console.log(sum)
+sum = sum + grades[1]
+console.log(sum)
+sum = sum + grades[2]
+console.log(sum)
+sum = sum + grades[3]
+console.log("Final sum is: " + sum)
